@@ -77,10 +77,10 @@
 </div>  
   
 
-## Tunes that have me grooving like a gignified 🎷😊
+## Tunes that have me grooving like a dignified 🎷😊
   
 
 <br/>  
-<div align="center"><img src="https://music.apple.com/ng/playlist/africa-now/pl.a0794db8bc6f45888834fa708a674987" /></div>  
+<div align="center"> src="https://music.apple.com/ng/playlist/africa-now/pl.a0794db8bc6f45888834fa708a674987" /></div>  
 
 <br/>  
