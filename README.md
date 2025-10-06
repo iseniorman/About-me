@@ -81,6 +81,6 @@
   
 
 <br/>  
-<div align="center"> src="https://music.apple.com/ng/playlist/africa-now/pl.a0794db8bc6f45888834fa708a674987" /></div>  
+<div align="center"><img src="https://music.apple.com/ng/playlist/africa-now/pl.a0794db8bc6f45888834fa708a674987" /></div>  
 
 <br/>  
