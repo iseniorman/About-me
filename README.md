@@ -77,10 +77,10 @@
 </div>  
   
 
-## What I'm Listening To 🎷😊
+## Tunes that have me grooving like a gignified 🎷😊
   
 
 <br/>  
-<div align="center"> src="https://music.apple.com/de/album/9-%C3%A8san/1584666743" /></div>  
+<div align="center"><img src="https://music.apple.com/ng/playlist/africa-now/pl.a0794db8bc6f45888834fa708a674987" /></div>  
 
 <br/>  
