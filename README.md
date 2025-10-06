@@ -1,5 +1,5 @@
 # About-me
-### <div align="center">I'm Sadeeq, an IT support expert 📠 and a Data science Analyst in making... 💻 </div>  
+### <div align="center">I'm Àkànní, an IT support expert 📠 and a Data science Analyst in making... 💻 </div>  
   
 🚀 I’m currently learning Data Science and AI at [WBS CODING SCHOOL](https://www.wbscodingschool.com/) 
 
@@ -81,6 +81,6 @@
   
 
 <br/>  
-<div align="center"><img src="https://music.apple.com/de/album/9-%C3%A8san/1584666743" /></div>  
+<div align="center"> src="https://music.apple.com/de/album/9-%C3%A8san/1584666743" /></div>  
 
 <br/>  
