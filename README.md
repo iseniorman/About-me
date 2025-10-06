@@ -74,8 +74,6 @@
 </a>
 <a href="https://codepen.com/nidextc" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
 </div>  
   
 
@@ -83,6 +81,6 @@
   
 
 <br/>  
-<div align="center"><img src="https://audiomack.com/fuji" /></div>  
+<div align="center"><img src="https://music.apple.com/de/album/9-%C3%A8san/1584666743" /></div>  
 
 <br/>  
