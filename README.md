@@ -7,7 +7,7 @@
 
 I'm an ambassador of peace ⚖︎ 
 
-An IT  with an analytical background moving into Data Science, with demonstrated skills in analytical thinking, fault diagnosis, and transforming technical knowledge into practical solutions. Adept at structuring and documenting complex materials, working with various stakeholders to contextualize their needs, and adapting to emerging technologies. Now looking to utilize a background in technical support and analytical thinking to explore data, create predictive models, and drive data driven decisions.
+An IT support with an analytical background moving into Data Science, with demonstrated skills in analytical thinking, fault diagnosis, and transforming technical knowledge into practical solutions. Adept at structuring and documenting complex materials, working with various stakeholders to contextualize their needs, and adapting to emerging technologies. Now looking to utilize a background in technical support and analytical thinking to explore data, create predictive models, and drive data driven decisions.
 
 
 <br/>  
