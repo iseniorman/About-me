@@ -1,70 +1,19 @@
-# About-me
-### <div align="center">I'm Àkànní, an IT support expert 📠 and a Data science Analyst in making... 💻 </div>  
-  
+# Hello beautiful people! I'm Àkànní, an IT support expert and aspiring Data science & AI Analyst....☻
+
+<p align="center">
+   <em>"Code is an art form that I intend to enhance."</em> �
+</p>
+
+<img align="right" alt="Guy Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHprajBjemhpa29uMHBqZ242MWp6eThwY3VtZmFlYTFraDhkcm04cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif">
+
+###  About Me
 🚀 I’m currently learning Data Science and AI at [WBS CODING SCHOOL](https://www.wbscodingschool.com/) 
-
 💬 Ask me about anything related to IT support and Webapp ☻
-
 I'm an ambassador of peace ⚖︎ 
+<br/>
 
-An IT support with an analytical background moving into Data Science, with demonstrated skills in analytical thinking, fault diagnosis, and transforming technical knowledge into practical solutions. Adept at structuring and documenting complex materials, working with various stakeholders to contextualize their needs, and adapting to emerging technologies. Now looking to utilize a background in technical support and analytical thinking to explore data, create predictive models, and drive data driven decisions.
-
-
-<br/>  
-
-
-## My Cape-abilities 😊
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />    
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />      
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />    
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />    
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />    
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />   
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Get in touch with me 🥂 
-<div align="center">
+### Let's Connect & Share Magic 🥂!
+<div align="left">
 <a href="https://github.com/iseniorman" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -74,7 +23,39 @@ An IT support with an analytical background moving into Data Science, with demon
 <a href="https://codepen.com/nidextc" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </div>  
-  
 
-## Tunes that have me grooving like a dignified 🎷😊
-  [Music 🎵](https://music.apple.com/ng/playlist/africa-now/pl.a0794db8bc6f45888834fa708a674987 "Music 🎵")
+### My Cape-abilities 💻
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter--blue?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React--green?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-☯︎-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-🐍-green?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-☕-orange?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-🔥-red?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-🍃-green?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-🐘-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+###  Currently Vibing With
+-  Creating fabulous experiences with **Python**
+-  Unleashing the magic  **React**
+-  Contributing to meaningful open source projects
+
+
+
+## Tunes that have me grooving like a dignified 🎷
+[Music 🎵](https://music.apple.com/ng/playlist/africa-now/pl.a0794db8bc6f45888834fa708a674987 "Music 🎵")
+   
+---
+<p align="center">
+   <em>Lots of love, tea, and code</em> 
+  <br/>
+   <em>Keep coding, keep dreaming, keep shining!</em> 
+</p>
